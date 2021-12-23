@@ -1555,6 +1555,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Sprints.DataLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.13"
+        },
+        "compile": {
+          "bin/placeholder/Sprints.DataLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sprints.DataLayer.dll": {}
+        }
       }
     }
   },
@@ -5874,12 +5887,18 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Sprints.DataLayer/1.0.0": {
+      "type": "project",
+      "path": "../Sprints.DataLayer/Sprints.DataLayer.csproj",
+      "msbuildProject": "../Sprints.DataLayer/Sprints.DataLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.EntityFrameworkCore >= 5.0.13",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.13",
+      "Sprints.DataLayer >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -5890,9 +5909,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Sprint3\\Sprints\\Sprints\\Sprints.csproj",
-      "projectName": "Sprints",
-      "projectPath": "F:\\Sprint3\\Sprints\\Sprints\\Sprints.csproj",
+      "projectUniqueName": "F:\\Sprint3\\Sprints\\Sprints\\Sprints.ApplicationLayer.csproj",
+      "projectName": "Sprints.ApplicationLayer",
+      "projectPath": "F:\\Sprint3\\Sprints\\Sprints\\Sprints.ApplicationLayer.csproj",
       "packagesPath": "C:\\Users\\bhava\\.nuget\\packages\\",
       "outputPath": "F:\\Sprint3\\Sprints\\Sprints\\obj\\",
       "projectStyle": "PackageReference",
@@ -5914,7 +5933,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Sprint3\\Sprints\\Sprints.DataLayer\\Sprints.DataLayer.csproj": {
+              "projectPath": "F:\\Sprint3\\Sprints\\Sprints.DataLayer\\Sprints.DataLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

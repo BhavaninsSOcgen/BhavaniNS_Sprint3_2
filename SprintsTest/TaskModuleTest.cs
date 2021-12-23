@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Moq;
-using Sprints.Interfaces;
-using Sprints.Models;
+using Sprints.DataLayer.Interfaces;
+using Sprints.DataLayer.Models;
+using Sprints.PersistenceLayer;
+using Sprints.PersistenceLayer.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sprints\Sprints.csproj" />
+    <ProjectReference Include="..\Sprints\Sprints.ApplicationLayer.csproj" />
   </ItemGroup>
 
 </Project>
