@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Sprints.Interfaces;
-using Sprints.Models;
+using Sprints.DataLayer.Interfaces;
+using Sprints.DataLayer.Models;
 
-namespace Sprints.Controllers
+namespace Sprints.ApplicationLayer.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

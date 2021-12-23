@@ -12,7 +12,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.13",
           "Microsoft.NET.Test.Sdk": "17.0.0",
           "Moq": "4.16.1",
-          "Sprints": "1.0.0",
+          "Sprints.ApplicationLayer": "1.0.0",
           "xunit": "2.4.1",
           "xunit.analyzers": "0.10.0",
           "xunit.assert": "2.4.1",
@@ -1673,14 +1673,23 @@
       },
       "xunit.runner.console/2.4.1": {},
       "xunit.runner.visualstudio/2.4.3": {},
-      "Sprints/1.0.0": {
+      "Sprints.ApplicationLayer/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.13",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.13",
+          "Sprints.DataLayer": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3"
         },
         "runtime": {
-          "Sprints.dll": {}
+          "Sprints.ApplicationLayer.dll": {}
+        }
+      },
+      "Sprints.DataLayer/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.13"
+        },
+        "runtime": {
+          "Sprints.DataLayer.dll": {}
         }
       }
     }
@@ -2741,7 +2750,12 @@
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
-    "Sprints/1.0.0": {
+    "Sprints.ApplicationLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sprints.DataLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

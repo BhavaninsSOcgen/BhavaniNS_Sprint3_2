@@ -1,0 +1,11 @@
+F:\Sprint3\Sprints\Sprints.DataLayer\obj\Debug\net5.0\Sprints.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sprint3\Sprints\Sprints.DataLayer\obj\Debug\net5.0\Sprints.DataLayer.AssemblyInfoInputs.cache
+F:\Sprint3\Sprints\Sprints.DataLayer\obj\Debug\net5.0\Sprints.DataLayer.AssemblyInfo.cs
+F:\Sprint3\Sprints\Sprints.DataLayer\obj\Debug\net5.0\Sprints.DataLayer.csproj.CoreCompileInputs.cache
+F:\Sprint3\Sprints\Sprints.DataLayer\bin\Debug\net5.0\Sprints.DataLayer.deps.json
+F:\Sprint3\Sprints\Sprints.DataLayer\bin\Debug\net5.0\Sprints.DataLayer.dll
+F:\Sprint3\Sprints\Sprints.DataLayer\bin\Debug\net5.0\ref\Sprints.DataLayer.dll
+F:\Sprint3\Sprints\Sprints.DataLayer\bin\Debug\net5.0\Sprints.DataLayer.pdb
+F:\Sprint3\Sprints\Sprints.DataLayer\obj\Debug\net5.0\Sprints.DataLayer.dll
+F:\Sprint3\Sprints\Sprints.DataLayer\obj\Debug\net5.0\ref\Sprints.DataLayer.dll
+F:\Sprint3\Sprints\Sprints.DataLayer\obj\Debug\net5.0\Sprints.DataLayer.pdb

@@ -1,15 +1,9 @@
-F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.deps.json
-F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.runtimeconfig.json
-F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.runtimeconfig.dev.json
 F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\appsettings.Development.json
 F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\appsettings.json
-F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.exe
 F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\SprintsTest.deps.json
 F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\SprintsTest.dll
 F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\ref\SprintsTest.dll
 F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\SprintsTest.pdb
-F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.dll
-F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.pdb
 F:\Sprint3\Sprints\SprintsTest\obj\Debug\net5.0\SprintsTest.csproj.AssemblyReference.cache
 F:\Sprint3\Sprints\SprintsTest\obj\Debug\net5.0\SprintsTest.GeneratedMSBuildEditorConfig.editorconfig
 F:\Sprint3\Sprints\SprintsTest\obj\Debug\net5.0\SprintsTest.AssemblyInfoInputs.cache
@@ -141,3 +135,11 @@ F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsof
 F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.DataLayer.dll
+F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.DataLayer.pdb
+F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.ApplicationLayer.deps.json
+F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.ApplicationLayer.runtimeconfig.json
+F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.ApplicationLayer.runtimeconfig.dev.json
+F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.ApplicationLayer.exe
+F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.ApplicationLayer.dll
+F:\Sprint3\Sprints\SprintsTest\bin\Debug\net5.0\Sprints.ApplicationLayer.pdb

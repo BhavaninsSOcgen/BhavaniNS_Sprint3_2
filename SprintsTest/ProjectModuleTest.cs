@@ -1,7 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Moq;
-using Sprints.Interfaces;
-using Sprints.Models;
+using Sprints.DataLayer.Interfaces;
+using Sprints.DataLayer.Models;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,27 +14,23 @@ namespace SprintsTest
 {
     public class ProjectModuleTest
     {
-        //public Mock<IProjectModule> mock = new Mock<IProjectModule>();
+        
         [Fact]
         public void GetProjectById_test()
         {
 
-            //var ProjectMock = new Mock<IProjectModule>();
-            //ProjectModule project = new ProjectModule { Id = 1, Name = "string", Detail = "string", CreatedOn = "string" };
-            //ProjectMock.Setup(a => a.GetProjectById(2)).Returns(project);
-            //Assert.Equal(project, ProjectMock);
-            //ProjectModule expected = new ProjectModule() { Id = 1, Name = "string1", Detail = "Detail1", CreatedOn = "2021-01-01" };
-            //
-            //var project = ProjectMock.Object;
-            //var actual = project.GetProjectById(expected.Id);
-            //
-            //Assert.Equal(expected.Id, actual.Id);
-            //Assert.Equal(expected.Name, actual.Name);
-            //Assert.Equal(expected.Detail, actual.Detail);
-            //Assert.Equal(expected.CreatedOn, actual.CreatedOn);
 
+            var ProjectMock = new Mock<IProjectModule>();
+            ProjectModule expected = new ProjectModule() { Id = 2, Name = "string", Detail = "string", CreatedOn = "string" };
 
+            var project = ProjectMock.Object;
+            var actual = project.GetProjectById(expected.Id);
 
+            Assert.Equal(expected.Id, actual.Id);
+            Assert.Equal(expected.Name, actual.Name);
+            Assert.Equal(expected.Detail, actual.Detail);
+            Assert.Equal(expected.Detail, actual.Detail);
+            Assert.Equal(expected.CreatedOn, actual.CreatedOn);
 
         }
 

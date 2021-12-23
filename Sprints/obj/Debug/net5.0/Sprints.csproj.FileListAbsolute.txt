@@ -45,7 +45,6 @@ F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.GeneratedMSBuildEditorConfig
 F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.AssemblyInfoInputs.cache
 F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.AssemblyInfo.cs
 F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.csproj.CoreCompileInputs.cache
-F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.MvcApplicationPartsAssemblyInfo.cs
 F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.MvcApplicationPartsAssemblyInfo.cache
 F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\scopedcss\bundle\Sprints.styles.css
 F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\staticwebassets\Sprints.StaticWebAssets.Manifest.cache
@@ -55,3 +54,7 @@ F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.dll
 F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\ref\Sprints.dll
 F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.pdb
 F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.genruntimeconfig.cache
+F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.csproj.AssemblyReference.cache
+F:\Sprint3\Sprints\Sprints\bin\Debug\net5.0\Sprints.DataLayer.dll
+F:\Sprint3\Sprints\Sprints\bin\Debug\net5.0\Sprints.DataLayer.pdb
+F:\Sprint3\Sprints\Sprints\obj\Debug\net5.0\Sprints.MvcApplicationPartsAssemblyInfo.cs
